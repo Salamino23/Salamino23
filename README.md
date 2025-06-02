@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Ciao, sono Salamino23!
 
-<!--
-**Salamino23/Salamino23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Studente al 4° anno di Automazione industriale  
+🤖 Appassionato di Intelligenza Artificiale, automazione e tecnologie utili  
+💡 Sviluppo progetti reali per imparare, risolvere problemi e creare valore
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Cosa faccio qui
+- Progetto applicazioni AI-based (es. gestione finanziaria intelligente 💰🧠)
+- Scrivo codice concreto, utile e facilmente migliorabile
+- Imparo ogni giorno lavorando su cose reali
+
+---
+
+### 🎯 I miei interessi
+- Intelligenza artificiale applicata al quotidiano
+- Automazione, controllo e ottimizzazione
+- Soluzioni digitali semplici e adattive
+
+---
+
+### 📍 Dove mi trovo
+🇮🇹 Bergamo, Italia  
+📬 Aperto a collaborazioni, idee, proposte o feedback
+
+---
+
+📫 **Contattami se ti interessa quello che faccio o vuoi lavorare con me.**
